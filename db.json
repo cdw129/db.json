@@ -112,7 +112,7 @@
         {
             "id": "11",
             "name": "Willy Wonka",
-            "imageUrl": "https://en.wikipedia.org/wiki/File:Gene_Wilder_as_Willy_Wonka.jpeg",
+            "imageUrl": "https://upload.wikimedia.org/wikipedia/en/8/85/Gene_Wilder_as_Willy_Wonka.jpeg",
             "hintQuote": "Mr. Wonka: No other factory in the world mixes its chocolate by waterfall… But it's the only way if you want it just right",
             "directorHint": "Mel Stuart",
             "answerPool" : [
