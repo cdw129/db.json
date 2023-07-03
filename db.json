@@ -69,6 +69,13 @@
             "imageUrl": "https://i.cbc.ca/1.2248090.1382678608!/httpImage/image.jpg_gen/derivatives/original_780/arts-joker-584.jpg",
             "hintQuote": "The Joker: Why so serious?",
             "directorHint": "Christopher Nolan"
+        },
+        {
+            "id": "11",
+            "name": "Willy Wonka",
+            "imageUrl": "https://en.wikipedia.org/wiki/File:Gene_Wilder_as_Willy_Wonka.jpeg",
+            "hintQuote": "Mr. Wonka: No other factory in the world mixes its chocolate by waterfall… But it's the only way if you want it just right",
+            "directorHint": "Mel Stuart"
         }
     ]
 }
